@@ -1,0 +1,20 @@
+.classpath
+.project
+.gradle
+build/
+.settings/
+
+# Intellij
+.idea/
+out/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+logs/
+target/
+gradle/
+*.log
